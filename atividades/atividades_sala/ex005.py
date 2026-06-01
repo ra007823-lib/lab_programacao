@@ -5,12 +5,8 @@ for i in range(1,7):
     lista.append(v)
 num = int(input('digite um num para teste: '))
 
-cont = 0
-for e in lista:
-    if e == num:
-        cont +1
 cont = lista.count(num)
 posição = lista.index(num)
 
 print(f'a quantidade de vezes que o numero buscado aparece é de {cont}')
-print(f'a primeira posição em que ele aparece é a {posição}')
+print(f'a primeira posição em que ele aparece é a {posição}°')

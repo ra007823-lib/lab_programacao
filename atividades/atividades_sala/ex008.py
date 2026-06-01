@@ -1,0 +1,1 @@
+#sem usar comando .split() nativo Python, faça um programa que receba uma frase curta separada por espaços(ex: 'Banco de dados')  e transforme cada palavra em um elemento de um vetor (ex:['Banco','de','dados']).

@@ -1,0 +1,1 @@
+#eleabore um programa que leia 10 numeros inteiros do teclado. á medida que os numeros forem lidos, os pares devem ser inseridos em uma lista chamada pares e os impares em uma lista chamada impares. porem se o usuario digitar um numero que já foi inserido anteriormente em qualquer uma das listas, o programa deve recusar o numero e pedir para digitar outro.
