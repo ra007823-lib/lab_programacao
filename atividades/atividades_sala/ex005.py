@@ -10,11 +10,7 @@ for e in lista:
     if e == num:
         cont +1
 cont = lista.count(num)
+posição = lista.index(num)
 
-x =0
-
-for e in lista:
-    if x in lista:
-     x = lista.index(num)
-print(cont)
-print(x)
+print(f'a quantidade de vezes que o numero buscado aparece é de {cont}')
+print(f'a primeira posição em que ele aparece é a {posição}')
