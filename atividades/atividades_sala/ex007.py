@@ -15,5 +15,5 @@ while len(pares) + len(impares) < 10:
     else:
         impares.append(numero)
 
-print("\nLista de pares:", pares)
+print("Lista de pares:", pares)
 print("Lista de ímpares:", impares)
