@@ -9,4 +9,4 @@ cont = lista.count(num)
 posição = lista.index(num)
 
 print(f'a quantidade de vezes que o numero buscado aparece é de {cont}')
-print(f'a primeira posição em que ele aparece é a {posição}°')
+print(f'a primeira posição em que ele aparece é a {posição+1}°')
